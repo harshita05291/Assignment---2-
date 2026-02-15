@@ -27,7 +27,8 @@ The dataset contains categorical and numerical attributes. Categorical variables
 
 ## Observations
 
-| ML Model Name            | Observation                                                
+| ML Model Name            | Observation                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------ |
 | Logistic Regression      | Provided strong baseline performance and good interpretability.                      |
 | Decision Tree            | Easy to interpret but slightly prone to overfitting.                                 |
 | kNN                      | Performance depends heavily on scaling and choice of k value.                        |
